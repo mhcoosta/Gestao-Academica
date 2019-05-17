@@ -1,0 +1,17 @@
+C:\Users\Matheus Costa\Documents\Matheus\IFRJ\3_Periodo\LTP2\VBA\GestãoAcadêmica\GestãoAcadêmica\GestãoAcadêmica\bin\x86\Debug\GestãoAcadêmica.exe.config
+C:\Users\Matheus Costa\Documents\Matheus\IFRJ\3_Periodo\LTP2\VBA\GestãoAcadêmica\GestãoAcadêmica\GestãoAcadêmica\bin\x86\Debug\escola2k19.mdb
+C:\Users\Matheus Costa\Documents\Matheus\IFRJ\3_Periodo\LTP2\VBA\GestãoAcadêmica\GestãoAcadêmica\GestãoAcadêmica\bin\x86\Debug\GestãoAcadêmica.exe
+C:\Users\Matheus Costa\Documents\Matheus\IFRJ\3_Periodo\LTP2\VBA\GestãoAcadêmica\GestãoAcadêmica\GestãoAcadêmica\bin\x86\Debug\GestãoAcadêmica.pdb
+C:\Users\Matheus Costa\Documents\Matheus\IFRJ\3_Periodo\LTP2\VBA\GestãoAcadêmica\GestãoAcadêmica\GestãoAcadêmica\bin\x86\Debug\GestãoAcadêmica.xml
+C:\Users\Matheus Costa\Documents\Matheus\IFRJ\3_Periodo\LTP2\VBA\GestãoAcadêmica\GestãoAcadêmica\GestãoAcadêmica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matheus Costa\Documents\Matheus\IFRJ\3_Periodo\LTP2\VBA\GestãoAcadêmica\GestãoAcadêmica\GestãoAcadêmica\obj\x86\Debug\GestãoAcadêmica.FormInicial.resources
+C:\Users\Matheus Costa\Documents\Matheus\IFRJ\3_Periodo\LTP2\VBA\GestãoAcadêmica\GestãoAcadêmica\GestãoAcadêmica\obj\x86\Debug\GestãoAcadêmica.FormProfessor.resources
+C:\Users\Matheus Costa\Documents\Matheus\IFRJ\3_Periodo\LTP2\VBA\GestãoAcadêmica\GestãoAcadêmica\GestãoAcadêmica\obj\x86\Debug\GestãoAcadêmica.Resources.resources
+C:\Users\Matheus Costa\Documents\Matheus\IFRJ\3_Periodo\LTP2\VBA\GestãoAcadêmica\GestãoAcadêmica\GestãoAcadêmica\obj\x86\Debug\GestãoAcadêmica.vbproj.GenerateResource.Cache
+C:\Users\Matheus Costa\Documents\Matheus\IFRJ\3_Periodo\LTP2\VBA\GestãoAcadêmica\GestãoAcadêmica\GestãoAcadêmica\obj\x86\Debug\GestãoAcadêmica.exe
+C:\Users\Matheus Costa\Documents\Matheus\IFRJ\3_Periodo\LTP2\VBA\GestãoAcadêmica\GestãoAcadêmica\GestãoAcadêmica\obj\x86\Debug\GestãoAcadêmica.xml
+C:\Users\Matheus Costa\Documents\Matheus\IFRJ\3_Periodo\LTP2\VBA\GestãoAcadêmica\GestãoAcadêmica\GestãoAcadêmica\obj\x86\Debug\GestãoAcadêmica.pdb
+C:\Users\Matheus Costa\Documents\Matheus\IFRJ\3_Periodo\LTP2\VBA\GestãoAcadêmica\GestãoAcadêmica\GestãoAcadêmica\obj\x86\Debug\GestãoAcadêmica.FormAluno.resources
+C:\Users\Matheus Costa\Documents\Matheus\IFRJ\3_Periodo\LTP2\VBA\GestãoAcadêmica\GestãoAcadêmica\GestãoAcadêmica\obj\x86\Debug\GestãoAcadêmica.FormBoletim.resources
+C:\Users\Matheus Costa\Documents\Matheus\IFRJ\3_Periodo\LTP2\VBA\GestãoAcadêmica\GestãoAcadêmica\GestãoAcadêmica\obj\x86\Debug\GestãoAcadêmica.FormCurso.resources
+C:\Users\Matheus Costa\Documents\Matheus\IFRJ\3_Periodo\LTP2\VBA\GestãoAcadêmica\GestãoAcadêmica\GestãoAcadêmica\obj\x86\Debug\GestãoAcadêmica.FormMatricula.resources
